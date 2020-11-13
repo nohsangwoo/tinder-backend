@@ -1,7 +1,8 @@
-> nodejs에 express, mongoose 설치
-> 설정
-
-> nodemon 설치 및 사용
+# tinder-clone backend
+> nodejs에 express, mongoose 설치<br/>
 
 
-> nodemon server.js
+> nodemon 설치 및 사용<br/>
+
+
+> nodemon server.js <br/>
